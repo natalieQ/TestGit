@@ -1,1 +1,1 @@
-console.log("this is my test of git - version 1");
+console.log("this is my test of git - version 2");
